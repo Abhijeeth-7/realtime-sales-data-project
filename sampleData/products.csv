@@ -1,0 +1,11 @@
+productId,name,category,price,supplierId
+P501,Smartphone,Electronics,299.99,S101
+P502,Headphones,Electronics,99.99,S102
+P503,Laptop,Electronics,999.99,S103
+P504,Book,Fiction,19.99,S104
+P505,Coffee Maker,Home Appliance,79.99,S105
+P506,Running Shoes,Sporting Goods,129.99,S106
+P507,Television,Electronics,499.99,S107
+P508,Blender,Home Appliance,49.99,S108
+P509,Camera,Electronics,249.99,S109
+P510,Watch,Accessories,199.99,S110
