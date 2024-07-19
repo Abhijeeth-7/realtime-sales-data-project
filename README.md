@@ -1,4 +1,5 @@
 # realtime-sales-data-project
+This project implements a real-time data warehousing solution to manage and analyze sales transactions and inventory updates during a sales event. The solution leverages AWS services for data streaming, processing, and storage to provide actionable insights for inventory management, marketing strategies, and customer experience enhancement.
 
 #### Architechture
 ![architechtural-diagram](https://github.com/user-attachments/assets/5a7b52f2-2290-4929-afaf-7135d53be641)
